@@ -1,6 +1,6 @@
 # perfil
 
-A new Flutter project.
+Projeto Simples de Flutter, com inputs de dados de uma pessoa.
 
 ## Getting Started
 
